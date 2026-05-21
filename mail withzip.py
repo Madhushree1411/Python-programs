@@ -7,9 +7,9 @@ from email.mime.base import MIMEBase
 from email import encoders
 
 # Gmail details
-sender_email = "palanivelvijian@gmail.com"
-receiver_email = "rayeesaiffath@gmail.com"
-app_password = "hkbt yirl pesn lxci"
+sender_email = "your_email@gmail.com"
+receiver_email = "recevier_email@gmail.com"
+app_password = "your_password"
 
 # ZIP file path
 file_path = r"C:\Users\C2C.ITPG21.000\Desktop\vac.zip"
