@@ -3,9 +3,9 @@ import time
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
-sender_email = "palanivelvijian@gmail.com"
-receiver_email = "harijagan008@gmail.com"
-app_password = "hkbt yirl pesn lxci"
+sender_email = "your_email@gmail.com"
+receiver_email = "recevier_email@gmail.com"
+app_password = "your_password"
 
 send_time = "14:06"   # HH:MM format
 
