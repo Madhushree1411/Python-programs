@@ -1,0 +1,2 @@
+Hello! Your Python script successfully opened this file automatically.
+You can close this window now.
